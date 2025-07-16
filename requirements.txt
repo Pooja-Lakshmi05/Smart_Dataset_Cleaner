@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-ydata-profiling
+seaborn==0.12.2
+pandas==2.2.2
+numpy==1.24.4
+matplotlib==3.7.1
+scikit-learn==1.3.0
+ydata-profiling==4.6.4
+streamlit==1.29.0
